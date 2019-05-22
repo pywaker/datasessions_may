@@ -1,1 +1,9 @@
+*.py[co]
+__pycache__/
+ 
 .ipynb_checkpoints/
+.vscode/
+.venv/
+ 
+sample*.txt
+ 
