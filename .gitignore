@@ -4,6 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 .venv/
+*.sqlite3
  
 sample*.txt
  
